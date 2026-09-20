@@ -1,5 +1,7 @@
 # Shake to Find Cursor
 
+![Shake to Find Cursor demo](./shake-to-find.gif)
+
 A [Windhawk](https://windhawk.net/) mod that brings macOS's "Shake to locate"
 to Windows: shake the mouse and the cursor grows so you can spot it instantly.
 Keep shaking and it keeps growing, slower and slower. Stop, and it shrinks
