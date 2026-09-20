@@ -70,6 +70,10 @@ To install it manually (e.g. before it's in the Explore tab):
 Contributions and issues are welcome - feel free to open a pull request or
 an issue.
 
+## AI Disclosure
+
+This mod was written mainly by Claude with my oversight.
+
 ## License
 
 [MIT](./LICENSE)
